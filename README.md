@@ -15,9 +15,9 @@ A multi theme, completely accessible, with components and pages examples, ready 
 
 Clone or download this repo and everything you need is inside the `public` folder.
 
-با دستور زیر می توانید پروژه را کلون و استفاده کنید:
+Clone Repo Using:
 ```sh
-git clone https://github.com/AliAlhabibi/Windmill-Dashboard.git
+git clone https://github.com/imcalled-ali/Windmill-Dashboard.git
 ```
 ## 🖼️ Screenshots
 ##  نمای داشبورد
